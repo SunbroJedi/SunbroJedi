@@ -2,8 +2,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunbroJedi&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunbroJedi&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SunbroJedi&theme=dracula&utcOffset=-5)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sunbrojedi&theme=dracula&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunbrojedi&theme=dracula&langs_count=15&no-frame=true&margin-w=10&margin-h=10)
-
 ## Badges
 ### Languages
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
